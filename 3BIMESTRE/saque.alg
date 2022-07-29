@@ -13,10 +13,8 @@ final<-1500-saq
 
 se (final>0) entao
   escreval("Seu Saldo não está negativo. Sobraram: ",final)
-  escreval(".............................")escreval("----")
 
 senao
   escreval("Seu saldo está negativo em um valor de ",final)
-  escreval(".............................")escreval("----")
 fimse
 fimalgoritmo
