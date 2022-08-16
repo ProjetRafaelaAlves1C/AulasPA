@@ -27,7 +27,7 @@ escolha (escol)
     su <- n1-n2
      escreval("O resultado é: ", su)
   caso 3
-    mul <- n1.n2
+    mul <- n1*n2
      escreval("O resultado é: ", mul)
   caso 4
     divs <- n1/n2
